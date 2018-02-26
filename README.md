@@ -1,3 +1,3 @@
-# Repo
+# Rep
 Hello Peeps!
-Look up in the sky.
+Look uo in the sky.
